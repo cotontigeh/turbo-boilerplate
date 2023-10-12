@@ -5,7 +5,7 @@ Aim the use of `npx degit` [degit](https://www.npmjs.com/package/degit)
 # How to use
 
 ```bash
-npx degit cotontigeh/turbo-boilerplate
+npx degit cotontigeh/turbo-boilerplate new-folder
 ```
 
 This command copy this project and degit ask you where you want to copy it
